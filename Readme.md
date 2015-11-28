@@ -1,4 +1,4 @@
-# Awesome PostCSS
+[![awesome postcss](awesome-postcss.png)](https://github.com/jjaderg/awesome-postcss)
 
 >  A curated list of PostCSS plugins, articles, videos and more.  Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) and [awesome-svg](https://github.com/willianjusten/awesome-svg)
 
