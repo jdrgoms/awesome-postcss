@@ -11,3 +11,9 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 	- [Grunt Plugins](topics/Grunt-plugins.md)
 	- [Gulp Plugins](topics/Gulp-plugins.md)
 	- [Guides](topics/Guides.md)
+
+
+
+## How to contribute:
+
+[To contribute, just follow the instructions in this guide.](topics\contributing.md)
