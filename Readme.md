@@ -24,6 +24,9 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 * [It's Time for Everyone to Learn About PostCSS](http://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/)
 * [I'm Excited About PostCSS](http://davidtheclark.com/excited-about-postcss/)
 
+## Plugins
+* [A searchable catalog of PostCSS plugins](http://postcss.parts/)
+* [This is a PostCSS plugin for adding Instagram filters to your photos.](https://github.com/azat-io/postcss-instagram)
 
 ## Grunt Plugins
 > For those who use Grunt, some plugins to work with PostCSS.
