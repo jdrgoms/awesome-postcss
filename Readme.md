@@ -14,6 +14,7 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 - [Grunt Plugins](#grunt-plugins)
 - [Gulp Plugins](#gulp-plugins)
 - [Guides](#guides)
+- [Plugins](#plugins)
 
 
 ## Articles
@@ -24,9 +25,6 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 * [It's Time for Everyone to Learn About PostCSS](http://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/)
 * [I'm Excited About PostCSS](http://davidtheclark.com/excited-about-postcss/)
 
-## Plugins
-* [A searchable catalog of PostCSS plugins](http://postcss.parts/)
-* [This is a PostCSS plugin for adding Instagram filters to your photos.](https://github.com/azat-io/postcss-instagram)
 
 ## Grunt Plugins
 > For those who use Grunt, some plugins to work with PostCSS.
@@ -67,6 +65,11 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
     * [for Cross Browser Compatibility](http://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567)
     * [Together with Sass, Stylus, or LESS](http://webdesign.tutsplus.com/tutorials/using-postcss-together-with-sass-stylus-or-less--cms-24591)
     * [with BEM and SUIT Methodologies](http://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodologies--cms-24592)
+
+
+## Plugins
+* [A searchable catalog of PostCSS plugins](http://postcss.parts/)
+* [This is a PostCSS plugin for adding Instagram filters to your photos.](https://github.com/azat-io/postcss-instagram)
 
 
 
