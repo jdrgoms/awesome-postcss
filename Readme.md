@@ -69,7 +69,9 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 
 ## Plugins
 * [A searchable catalog of PostCSS plugins](http://postcss.parts/)
+* [Atom language support for PostCSS](https://github.com/azat-io/atom-language-postcss)
 * [This is a PostCSS plugin for adding Instagram filters to your photos.](https://github.com/azat-io/postcss-instagram)
+
 
 
 
