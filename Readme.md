@@ -1,5 +1,7 @@
 [![awesome postcss](logo-awepcss.png)](https://github.com/jjaderg/awesome-postcss)
 
+[![Build Status](https://travis-ci.org/jjaderg/awesome-postcss.svg?branch=master)](https://travis-ci.org/jjaderg/awesome-postcss)
+
 > A curated list of PostCSS plugins, articles, videos and more.
   Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) and [awesome-svg](https://github.com/willianjusten/awesome-svg)
 
