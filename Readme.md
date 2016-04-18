@@ -55,7 +55,7 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
     * [Roll Your Own Preprocessor](http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-roll-your-own-preprocessor--cms-24584)
     * [Shortcuts and Shorthand](http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-shortcuts-and-shorthand--cms-24602)
     * [What You Need to Know](http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535)
-* PostCSS Quickstart Guide: 
+* PostCSS Quickstart Guide:
     * [Exploring Plugins](http://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-exploring-plugins--cms-24566)
     * [Gulp Setup](http://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
     * [Grunt Setup](http://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-grunt-setup--cms-24545)
@@ -72,10 +72,9 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 * [Atom language support for PostCSS](https://github.com/azat-io/atom-language-postcss)
 * [This is a PostCSS plugin for adding Instagram filters to your photos.](https://github.com/azat-io/postcss-instagram)
 
-
-
-
-
 ## How to contribute:
 
 To contribute, [just follow the instructions in this guide.](https://github.com/jjaderg/awesome-postcss/blob/master/contributing.md)
+
+## License
+[MIT License](https://github.com/jjaderg/awesome-postcss/blob/master/license.md) © [Jader Gomes](https://github.com/jjaderg)
