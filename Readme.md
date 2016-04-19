@@ -1,6 +1,6 @@
 [![awesome postcss](logo-awepcss.png)](https://github.com/jjaderg/awesome-postcss)
 
-[![Build Status](https://travis-ci.org/jjaderg/awesome-postcss.svg?branch=master)](https://travis-ci.org/jjaderg/awesome-postcss)
+[![Build Status](https://api.travis-ci.org/jjaderg/awesome-postcss.svg?branch=master)](https://travis-ci.org/jjaderg/awesome-postcss)
 
 > A curated list of PostCSS plugins, articles, videos and more.
   Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) and [awesome-svg](https://github.com/willianjusten/awesome-svg)
@@ -20,7 +20,7 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 ## Articles
 
 * [A look into writing future CSS with PostCSS and cssnext](https://bigbitecreative.com/a-look-into-writing-future-css-with-postcss-cssnext/)
-* [Breaking up with Sass: PostCSS](http://benfrain.com/breaking-up-with-sass-postcss/)
+* [Breaking up with Sass: PostCSS](https://benfrain.com/breaking-up-with-sass-postcss/)
 * [How to Build Your Own CSS Preprocessor With PostCSS](http://www.sitepoint.com/build-css-preprocessor-postcss/)
 * [It's Time for Everyone to Learn About PostCSS](http://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/)
 * [I'm Excited About PostCSS](http://davidtheclark.com/excited-about-postcss/)
