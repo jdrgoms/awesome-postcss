@@ -15,6 +15,8 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 - [Gulp Plugins](#gulp-plugins)
 - [Guides](#guides)
 - [Plugins](#plugins)
+- [Presentations](#presentations)
+  - [Videos](#videos)
 
 
 ## Articles
@@ -24,6 +26,7 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 * [How to Build Your Own CSS Preprocessor With PostCSS](http://www.sitepoint.com/build-css-preprocessor-postcss/)
 * [It's Time for Everyone to Learn About PostCSS](http://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/)
 * [I'm Excited About PostCSS](http://davidtheclark.com/excited-about-postcss/)
+* [That postcss. Its so hot right now](https://cantina.co/that-postcss-its-so-hot-right-now/)
 
 
 ## Grunt Plugins
@@ -73,6 +76,14 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 * [PostCSS adapter for Stylus](https://github.com/seaneking/poststylus)
 * [This is a PostCSS plugin for adding Instagram filters to your photos.](https://github.com/azat-io/postcss-instagram)
 * [Simple normlize.css wrapper for PostCSS](https://github.com/seaneking/postcss-normalize)
+
+
+## Presentations
+
+#### Videos
+* [PostCSS: First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html)
+
+
 
 ## How to contribute:
 
