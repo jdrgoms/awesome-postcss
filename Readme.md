@@ -28,6 +28,7 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 * [I'm Excited About PostCSS](http://davidtheclark.com/excited-about-postcss/)
 * [Improving the Quality of Your CSS with PostCSS](http://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/)
 * [That postcss. Its so hot right now](https://cantina.co/that-postcss-its-so-hot-right-now/)
+* [So you want to make a PostCSS plugin](https://css-tricks.com/want-make-postcss-plugin/)
 
 
 ## Grunt Plugins
