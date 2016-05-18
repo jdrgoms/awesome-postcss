@@ -8,7 +8,7 @@
 The offcial PostCSS resources page can be found [here](https://github.com/postcss/postcss).
 
 
-## Table of Contents:
+## Table of Contents
 
 - [Articles](#articles)
 - [Grunt Plugins](#grunt-plugins)
@@ -33,20 +33,20 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 ## Grunt Plugins
 > For those who use Grunt, some plugins to work with PostCSS.
 
-* [Grunt-postcss](https://www.npmjs.com/package/grunt-postcss)
-* [Grunt-postcss-import](https://www.npmjs.com/package/grunt-postcss-import)
-* [Grunt-australian-stylesheets](https://www.npmjs.com/package/grunt-australian-stylesheets)
+* [grunt-postcss](https://www.npmjs.com/package/grunt-postcss)
+* [grunt-postcss-import](https://www.npmjs.com/package/grunt-postcss-import)
+* [grunt-australian-stylesheets](https://www.npmjs.com/package/grunt-australian-stylesheets)
 
 
 ## Gulp Plugins
 > For those who use Gulp, some plugins to work with PostCSS.
 
-* [Gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer/)
-* [Gulp-postcss](https://www.npmjs.com/package/gulp-postcss/)
-* [Gulp-australian-stylesheets](https://www.npmjs.com/package/gulp-australian-stylesheets/)
-* [Gulp-rucksack](https://www.npmjs.com/package/gulp-rucksack/)
-* [Gulp-pxtorem](https://www.npmjs.com/package/gulp-pxtorem/)
-* [Gulp-html-postcss](https://www.npmjs.com/package/gulp-html-postcss/)
+* [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer/)
+* [gulp-postcss](https://www.npmjs.com/package/gulp-postcss/)
+* [gulp-australian-stylesheets](https://www.npmjs.com/package/gulp-australian-stylesheets/)
+* [gulp-rucksack](https://www.npmjs.com/package/gulp-rucksack/)
+* [gulp-pxtorem](https://www.npmjs.com/package/gulp-pxtorem/)
+* [gulp-html-postcss](https://www.npmjs.com/package/gulp-html-postcss/)
 
 
 ## Guides
@@ -86,7 +86,7 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 
 
 
-## How to contribute:
+## Contribute
 
 To contribute, [just follow the instructions in this guide.](https://github.com/jjaderg/awesome-postcss/blob/master/contributing.md)
 
