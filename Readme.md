@@ -8,7 +8,7 @@
 The offcial PostCSS resources page can be found [here](https://github.com/postcss/postcss).
 
 
-## Table of Contents:
+## Table of Contents
 
 - [Articles](#articles)
 - [Grunt Plugins](#grunt-plugins)
@@ -23,10 +23,10 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 
 * [A look into writing future CSS with PostCSS and cssnext](https://bigbitecreative.com/a-look-into-writing-future-css-with-postcss-cssnext/)
 * [Breaking up with Sass: PostCSS](https://benfrain.com/breaking-up-with-sass-postcss/)
-* [How to Build Your Own CSS Preprocessor With PostCSS](http://www.sitepoint.com/build-css-preprocessor-postcss/)
+* [How to Build Your Own CSS Preprocessor With PostCSS](https://www.sitepoint.com/build-css-preprocessor-postcss/)
 * [It's Time for Everyone to Learn About PostCSS](http://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/)
 * [I'm Excited About PostCSS](http://davidtheclark.com/excited-about-postcss/)
-* [Improving the Quality of Your CSS with PostCSS](http://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/)
+* [Improving the Quality of Your CSS with PostCSS](https://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/)
 * [That postcss. Its so hot right now](https://cantina.co/that-postcss-its-so-hot-right-now/)
 * [So you want to make a PostCSS plugin](https://css-tricks.com/want-make-postcss-plugin/)
 
@@ -34,20 +34,20 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 ## Grunt Plugins
 > For those who use Grunt, some plugins to work with PostCSS.
 
-* [Grunt-postcss](https://www.npmjs.com/package/grunt-postcss)
-* [Grunt-postcss-import](https://www.npmjs.com/package/grunt-postcss-import)
-* [Grunt-australian-stylesheets](https://www.npmjs.com/package/grunt-australian-stylesheets)
+* [grunt-postcss](https://www.npmjs.com/package/grunt-postcss)
+* [grunt-postcss-import](https://www.npmjs.com/package/grunt-postcss-import)
+* [grunt-australian-stylesheets](https://www.npmjs.com/package/grunt-australian-stylesheets)
 
 
 ## Gulp Plugins
 > For those who use Gulp, some plugins to work with PostCSS.
 
-* [Gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer/)
-* [Gulp-postcss](https://www.npmjs.com/package/gulp-postcss/)
-* [Gulp-australian-stylesheets](https://www.npmjs.com/package/gulp-australian-stylesheets/)
-* [Gulp-rucksack](https://www.npmjs.com/package/gulp-rucksack/)
-* [Gulp-pxtorem](https://www.npmjs.com/package/gulp-pxtorem/)
-* [Gulp-html-postcss](https://www.npmjs.com/package/gulp-html-postcss/)
+* [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer/)
+* [gulp-postcss](https://www.npmjs.com/package/gulp-postcss/)
+* [gulp-australian-stylesheets](https://www.npmjs.com/package/gulp-australian-stylesheets/)
+* [gulp-rucksack](https://www.npmjs.com/package/gulp-rucksack/)
+* [gulp-pxtorem](https://www.npmjs.com/package/gulp-pxtorem/)
+* [gulp-html-postcss](https://www.npmjs.com/package/gulp-html-postcss/)
 
 
 ## Guides
@@ -86,10 +86,16 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 * [PostCSS: First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html)
 
 
+## Community
 
-## How to contribute:
+[Stack Overflow](http://stackoverflow.com/questions/tagged/postcss)
+[Twitter](https://twitter.com/PostCSS)
+
+
+
+## Contribute
 
 To contribute, [just follow the instructions in this guide.](https://github.com/jjaderg/awesome-postcss/blob/master/contributing.md)
 
 ## License
-[MIT License](https://github.com/jjaderg/awesome-postcss/blob/master/license.md) © [Jader Gomes](https://github.com/jjaderg)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) © [Jader Gomes](https://github.com/jjaderg)
