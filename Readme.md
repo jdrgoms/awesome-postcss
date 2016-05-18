@@ -91,4 +91,4 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 To contribute, [just follow the instructions in this guide.](https://github.com/jjaderg/awesome-postcss/blob/master/contributing.md)
 
 ## License
-[MIT License](https://github.com/jjaderg/awesome-postcss/blob/master/license.md) © [Jader Gomes](https://github.com/jjaderg)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) © [Jader Gomes](https://github.com/jjaderg)
