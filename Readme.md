@@ -88,8 +88,8 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 
 ## Community
 
-[Stack Overflow](http://stackoverflow.com/questions/tagged/postcss)
-[Twitter](https://twitter.com/PostCSS)
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/postcss)
+* [Twitter](https://twitter.com/PostCSS)
 
 
 
