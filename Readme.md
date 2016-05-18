@@ -76,7 +76,7 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 * [Atom language support for PostCSS](https://github.com/azat-io/atom-language-postcss)
 * [PostCSS adapter for Stylus](https://github.com/seaneking/poststylus)
 * [This is a PostCSS plugin for adding Instagram filters to your photos.](https://github.com/azat-io/postcss-instagram)
-* [Simple normlize.css wrapper for PostCSS](https://github.com/seaneking/postcss-normalize)
+* [Simple normalize.css wrapper for PostCSS](https://github.com/seaneking/postcss-normalize)
 
 
 ## Presentations
