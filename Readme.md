@@ -85,6 +85,12 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 * [PostCSS: First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html)
 
 
+## Community
+
+[Stack Overflow](http://stackoverflow.com/questions/tagged/postcss)
+[Twitter](https://twitter.com/PostCSS)
+
+
 
 ## Contribute
 
