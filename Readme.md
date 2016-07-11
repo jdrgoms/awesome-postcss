@@ -85,6 +85,10 @@ The offcial PostCSS resources page can be found [here](https://github.com/postcs
 
 #### Videos
 * [PostCSS: First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html)
+* [PostCSS the Future after Sass and Less](https://www.youtube.com/watch?v=73dl5dk9z4Q) by [@ai](https://github.com/ai)
+* [Fix global CSS with PostCSS](http://www.thedotpost.com/2015/12/andrey-sitnik-fix-global-css-with-postcss) by [@ai](https://github.com/ai)
+* [PostCSS, cssnext and the future of CSS](https://vimeo.com/159185299) by [@MoOx](https://github.com/MoOx)
+* [Kick your CSS up a notch with PostCSS](https://www.youtube.com/watch?v=-_gIKdHYP3E) by [@mxstbr](https://github.com/mxstbr)
 
 
 ## Community
