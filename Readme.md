@@ -19,7 +19,7 @@ ___
 	- [Plugins](#plugins)
 	- [Presentations](#presentations)
   		- [Videos](#videos)
-
+	- [Who to Follow](#who-to-follow)
 
 
 ### Official Resources
@@ -115,12 +115,17 @@ ___
 - [PostCSS, cssnext and the future of CSS](https://vimeo.com/159185299) by [@MoOx](https://github.com/MoOx)
 - [Kick your CSS up a notch with PostCSS](https://www.youtube.com/watch?v=-_gIKdHYP3E) by [@mxstbr](https://github.com/mxstbr)
 
+### Who to Follow
+
+- Andrey Sitnik [@andreysitnik](https://twitter.com/andreysitnik)
+- Evil Martians [@evilmartians](https://twitter.com/evilmartians)
 
 ### Contributing
 
 Your contributions are always welcome. But, please follow the instructions in this [guide](https://github.com/jjaderg/awesome-postcss/blob/master/contributing.md).
 
 ### Thanks to...
+
 - In particular [Afonso Pacifer](https://github.com/afonsopacifer) for helping me with CC License.
 
 ## License
