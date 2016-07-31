@@ -77,18 +77,20 @@ ___
 ### Guides
 > Guides for developers start their studies PostCSS.
 
-- **__PostCSS Deep Dive:__**
+- **__PostCSS Deep Dive:__** 
     - [Create Your Own Plugin](http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605)
     - [Miscellaneous Goodies](http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-miscellaneous-goodies--cms-24603)
     - [Preprocessing with “PreCSS”](http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-preprocessing-with-precss--cms-24583)
     - [Roll Your Own Preprocessor](http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-roll-your-own-preprocessor--cms-24584)
     - [Shortcuts and Shorthand](http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-shortcuts-and-shorthand--cms-24602)
     - [What You Need to Know](http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535)
+    
 - **__PostCSS Quickstart Guide:__**
     - [Exploring Plugins](http://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-exploring-plugins--cms-24566)
     - [Gulp Setup](http://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
     - [Grunt Setup](http://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-grunt-setup--cms-24545)
     - [Instant Setup Options](http://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-instant-setup-options--cms-24536)
+    
 - **__Using PostCSS:__**    
     - [for Minification and Optimization](http://webdesign.tutsplus.com/tutorials/using-postcss-for-minification-and-optimization--cms-24568)
     - [for Cross Browser Compatibility](http://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567)
@@ -104,14 +106,14 @@ ___
 - [Simple normalize.css wrapper for PostCSS](https://github.com/seaneking/postcss-normalize)
 
 
-## Presentations
+### Presentations
 
 #### Videos
-* [PostCSS: First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html)
-* [PostCSS the Future after Sass and Less](https://www.youtube.com/watch?v=73dl5dk9z4Q) by [@ai](https://github.com/ai)
-* [Fix global CSS with PostCSS](http://www.thedotpost.com/2015/12/andrey-sitnik-fix-global-css-with-postcss) by [@ai](https://github.com/ai)
-* [PostCSS, cssnext and the future of CSS](https://vimeo.com/159185299) by [@MoOx](https://github.com/MoOx)
-* [Kick your CSS up a notch with PostCSS](https://www.youtube.com/watch?v=-_gIKdHYP3E) by [@mxstbr](https://github.com/mxstbr)
+- [PostCSS: First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html)
+- [PostCSS the Future after Sass and Less](https://www.youtube.com/watch?v=73dl5dk9z4Q) by [@ai](https://github.com/ai)
+- [Fix global CSS with PostCSS](http://www.thedotpost.com/2015/12/andrey-sitnik-fix-global-css-with-postcss) by [@ai](https://github.com/ai)
+- [PostCSS, cssnext and the future of CSS](https://vimeo.com/159185299) by [@MoOx](https://github.com/MoOx)
+- [Kick your CSS up a notch with PostCSS](https://www.youtube.com/watch?v=-_gIKdHYP3E) by [@mxstbr](https://github.com/mxstbr)
 
 
 
