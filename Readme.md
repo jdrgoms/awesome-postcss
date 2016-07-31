@@ -4,7 +4,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of PostCSS plugins, articles, videos and more.
-  Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) and [awesome-svg](https://github.com/willianjusten/awesome-svg)
+  Inspired by [`awesome-flexbox`](https://github.com/afonsopacifer/awesome-flexbox) & [`awesome-svg`](https://github.com/willianjusten/awesome-svg).
 ___
 
 - [**__Awesome PostCSS__**](#awesome-postcss)
@@ -20,6 +20,9 @@ ___
 	- [Presentations](#presentations)
   		- [Videos](#videos)
 	- [Who to Follow](#who-to-follow)
+	- [Contributing](#contributing)
+	- [Thanks to...](#thanks-to)
+	- [License](#license)
 
 
 ### Official Resources
@@ -126,7 +129,8 @@ Your contributions are always welcome. But, please follow the instructions in th
 
 ### Thanks to...
 
-- In particular [Afonso Pacifer](https://github.com/afonsopacifer) for helping me with CC License.
+- In particular [Afonso Pacifer](https://github.com/afonsopacifer) for helping me with CC License. :simple_smile:
+- My friends [Marcus Silva](https://github.com/mvfsilva) and [Willian Justen](https://github.com/willianjusten) by motivating me. :v:
 
-## License
+### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) © [Jader Gomes](https://github.com/jjaderg)
