@@ -116,11 +116,12 @@ ___
 - [Kick your CSS up a notch with PostCSS](https://www.youtube.com/watch?v=-_gIKdHYP3E) by [@mxstbr](https://github.com/mxstbr)
 
 
+### Contributing
 
+Your contributions are always welcome. But, please follow the instructions in this [guide](https://github.com/jjaderg/awesome-postcss/blob/master/contributing.md).
 
-## Contribute
-
-To contribute, [just follow the instructions in this guide.](https://github.com/jjaderg/awesome-postcss/blob/master/contributing.md)
+### Thanks to...
+- In particular [Afonso Pacifer](https://github.com/afonsopacifer) for helping me with CC License.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) © [Jader Gomes](https://github.com/jjaderg)
