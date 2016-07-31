@@ -129,8 +129,9 @@ Your contributions are always welcome. But, please follow the instructions in th
 
 ### Thanks to...
 
-- In particular [Afonso Pacifer](https://github.com/afonsopacifer) for helping me with CC License. :simple_smile:
+- In particular [Afonso Pacifer](https://github.com/afonsopacifer) for helping me with CC License. :+1:
 - My friends [Marcus Silva](https://github.com/mvfsilva) and [Willian Justen](https://github.com/willianjusten) by motivating me. :v:
+- [Daniel Schmidt](https://github.com/danielmschmidt/) for his important contribution to the Awesome Post CSS list. 
 
 ### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) © [Jader Gomes](https://github.com/jjaderg)
