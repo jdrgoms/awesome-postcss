@@ -8,7 +8,8 @@
 ___
 
 - [**__Awesome PostCSS__**](#awesome-postcss)
-	- [Official Resources](#official-resources) 
+	- [Official Resources](#official-resources)
+	- [Community](#community) 
 	- [Articles](#articles)
 	- [Grunt Plugins](#grunt-plugins)
 	- [Gulp Plugins](#gulp-plugins)
@@ -24,6 +25,11 @@ ___
 - [**GitHub Repository ★11,186**](https://github.com/postcss/postcss)
 - [API Reference](http://api.postcss.org/index.html)
 
+### Community
+
+- [Twitter](https://twitter.com/PostCSS)
+- [Guitter](https://gitter.im/postcss/postcss)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/postcss)
 
 
 
