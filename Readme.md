@@ -96,12 +96,12 @@ ___
     - [with BEM and SUIT Methodologies](http://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodologies--cms-24592)
 
 
-## Plugins
-* [A searchable catalog of PostCSS plugins](http://postcss.parts/)
-* [Atom language support for PostCSS](https://github.com/azat-io/atom-language-postcss)
-* [PostCSS adapter for Stylus](https://github.com/seaneking/poststylus)
-* [This is a PostCSS plugin for adding Instagram filters to your photos.](https://github.com/azat-io/postcss-instagram)
-* [Simple normalize.css wrapper for PostCSS](https://github.com/seaneking/postcss-normalize)
+### Plugins
+- [A searchable catalog of PostCSS plugins](http://postcss.parts/)
+- [Atom language support for PostCSS](https://github.com/azat-io/atom-language-postcss)
+- [PostCSS adapter for Stylus](https://github.com/seaneking/poststylus)
+- [This is a PostCSS plugin for adding Instagram filters to your photos.](https://github.com/azat-io/postcss-instagram)
+- [Simple normalize.css wrapper for PostCSS](https://github.com/seaneking/postcss-normalize)
 
 
 ## Presentations
