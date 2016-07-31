@@ -40,19 +40,16 @@ ___
 - [Sass and PostCSS](https://podfanatic.com/podcast/non-breaking-space-show/episode/sam-richard-sass-and-postcss) with [Sam Richards](https://twitter.com/snugug)
 - [Post processing css](https://viewsourc.es/2015/06/15/episode-8-post-processing-css/)
 
+### Articles
 
-
-
-## Articles
-
-* [A look into writing future CSS with PostCSS and cssnext](https://bigbitecreative.com/a-look-into-writing-future-css-with-postcss-cssnext/)
-* [Breaking up with Sass: PostCSS](https://benfrain.com/breaking-up-with-sass-postcss/)
-* [How to Build Your Own CSS Preprocessor With PostCSS](https://www.sitepoint.com/build-css-preprocessor-postcss/)
-* [It's Time for Everyone to Learn About PostCSS](http://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/)
-* [I'm Excited About PostCSS](http://davidtheclark.com/excited-about-postcss/)
-* [Improving the Quality of Your CSS with PostCSS](https://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/)
-* [That postcss. Its so hot right now](https://cantina.co/that-postcss-its-so-hot-right-now/)
-* [So you want to make a PostCSS plugin](https://css-tricks.com/want-make-postcss-plugin/)
+- [A look into writing future CSS with PostCSS and cssnext](https://bigbitecreative.com/a-look-into-writing-future-css-with-postcss-cssnext/)
+- [Breaking up with Sass: PostCSS](https://benfrain.com/breaking-up-with-sass-postcss/)
+- [How to Build Your Own CSS Preprocessor With PostCSS](https://www.sitepoint.com/build-css-preprocessor-postcss/)
+- [It's Time for Everyone to Learn About PostCSS](http://davidtheclark.com/its-time-for-everyone-to-learn-about-postcss/)
+- [I'm Excited About PostCSS](http://davidtheclark.com/excited-about-postcss/)
+- [Improving the Quality of Your CSS with PostCSS](https://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/)
+- [That postcss. Its so hot right now](https://cantina.co/that-postcss-its-so-hot-right-now/)
+- [So you want to make a PostCSS plugin](https://css-tricks.com/want-make-postcss-plugin/)
 
 
 ## Grunt Plugins
