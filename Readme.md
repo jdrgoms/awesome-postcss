@@ -5,19 +5,26 @@
 
 > A curated list of PostCSS plugins, articles, videos and more.
   Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) and [awesome-svg](https://github.com/willianjusten/awesome-svg)
+___
 
-The offcial PostCSS resources page can be found [here](https://github.com/postcss/postcss).
+- [**__Awesome PostCSS__**](#awesome-postcss)
+	- [Official Resources](#official-resources) 
+	- [Articles](#articles)
+	- [Grunt Plugins](#grunt-plugins)
+	- [Gulp Plugins](#gulp-plugins)
+	- [Guides](#guides)
+	- [Plugins](#plugins)
+	- [Presentations](#presentations)
+  		- [Videos](#videos)
 
 
-## Table of Contents
 
-- [Articles](#articles)
-- [Grunt Plugins](#grunt-plugins)
-- [Gulp Plugins](#gulp-plugins)
-- [Guides](#guides)
-- [Plugins](#plugins)
-- [Presentations](#presentations)
-  - [Videos](#videos)
+### Official Resources
+
+- [API Reference](http://api.postcss.org/index.html)
+
+
+
 
 
 ## Articles
