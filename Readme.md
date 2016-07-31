@@ -21,7 +21,11 @@ ___
 
 ### Official Resources
 
+- [**GitHub Repository ★11,186**](https://github.com/postcss/postcss)
 - [API Reference](http://api.postcss.org/index.html)
+
+
+
 
 
 
@@ -97,11 +101,6 @@ ___
 * [PostCSS, cssnext and the future of CSS](https://vimeo.com/159185299) by [@MoOx](https://github.com/MoOx)
 * [Kick your CSS up a notch with PostCSS](https://www.youtube.com/watch?v=-_gIKdHYP3E) by [@mxstbr](https://github.com/mxstbr)
 
-
-## Community
-
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/postcss)
-* [Twitter](https://twitter.com/PostCSS)
 
 
 
