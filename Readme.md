@@ -35,7 +35,7 @@ ___
 - [Twitter](https://twitter.com/PostCSS)
 - [Guitter](https://gitter.im/postcss/postcss)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/postcss)
-- [Vkontakte](https://new.vk.com/postcss)
+- [Vkontakte](https://m.vk.com/postcss)
 
 ### Podcast
 
