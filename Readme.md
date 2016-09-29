@@ -40,7 +40,7 @@ ___
 ### Podcast
 
 - [206 JSJ  - PostCSS](https://devchat.tv/js-jabber/206-jsj-postcss-with-ben-briggs) with [Ben Briggs](https://github.com/ben-eb)
-- [Issue 24: The most stylish szhimator](https://radiojs.ru/2015/06/radiojs-24/) - (Russian)
+- [Issue 24: The most stylish minifier](https://radiojs.ru/2015/06/radiojs-24/) - (Russian)
 - [web-standards-ru - Issue №9](https://soundcloud.com/web-standards/episode-9) - (Russian)
 - [Sass and PostCSS](https://podfanatic.com/podcast/non-breaking-space-show/episode/sam-richard-sass-and-postcss) with [Sam Richards](https://twitter.com/snugug)
 - [Post processing css](https://viewsourc.es/2015/06/15/episode-8-post-processing-css/)
