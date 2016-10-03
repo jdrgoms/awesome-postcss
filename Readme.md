@@ -27,7 +27,7 @@ ___
 
 ### Official Resources
 
-- [**GitHub Repository ★11,186**](https://github.com/postcss/postcss)
+- [**GitHub Repository ★11,979**](https://github.com/postcss/postcss)
 - [API Reference](http://api.postcss.org/index.html)
 
 ### Community
