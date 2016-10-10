@@ -114,6 +114,7 @@ ___
 - [PostCSS adapter for Stylus](https://github.com/seaneking/poststylus)
 - [This is a PostCSS plugin for adding Instagram filters to your photos.](https://github.com/azat-io/postcss-instagram)
 - [Simple normalize.css wrapper for PostCSS](https://github.com/seaneking/postcss-normalize)
+- [Font Magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
 
 
 ### Presentations
