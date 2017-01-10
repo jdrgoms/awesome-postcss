@@ -5,6 +5,10 @@
 
 > A curated list of awesome plugins, articles, videos and other things related to postcss.
 
+#### Contributing
+
+Your contributions are always welcome. But, please take a quick gander at the [contribution guidelines](https://github.com/jjaderg/awesome-postcss/blob/master/CONTRIBUTING.md) first.
+
 
 - [**__Awesome PostCSS__**](#awesome-postcss)
 	- [Official Resources](#official-resources)
@@ -59,7 +63,7 @@
 - [PostCSS – Sass Killer or Preprocessing Pretender?](https://ashleynolan.co.uk/blog/postcss-a-review)
 - [So you want to make a PostCSS plugin](https://css-tricks.com/want-make-postcss-plugin/)
 - [That postcss. Its so hot right now](https://cantina.co/that-postcss-its-so-hot-right-now/)
-- [Introduction to Postcss](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/)=======
+- [Introduction to Postcss](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/)
 - [7 Postcss Pluguins to Ease You Into Postcss](https://www.sitepoint.com/7-postcss-plugins-to-ease-you-into-postcss/)
 - [Some thinks you may think about postcss](http://julian.io/some-things-you-may-think-about-postcss-and-you-might-be-wrong/)
 
@@ -118,7 +122,6 @@
 - [Font Magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
 - [PostCSS loader for webpack](https://github.com/postcss/postcss-loader)
 
-
 ### Presentations
 
 #### Videos
@@ -132,10 +135,6 @@
 
 - Andrey Sitnik [@andreysitnik](https://twitter.com/andreysitnik)
 - Evil Martians [@evilmartians](https://twitter.com/evilmartians)
-
-### Contributing
-
-Your contributions are always welcome. But, please follow the instructions in this [guide](https://github.com/jjaderg/awesome-postcss/blob/master/contributing.md).
 
 ### Thanks to...
 
