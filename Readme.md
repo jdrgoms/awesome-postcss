@@ -5,10 +5,11 @@
 
 > A curated list of awesome plugins, articles, videos and other things related to postcss.
 
-#### Contributing
+### Contributing
 
 Your contributions are always welcome. But, please take a quick gander at the [contribution guidelines](https://github.com/jjaderg/awesome-postcss/blob/master/CONTRIBUTING.md) first.
 
+### Content
 
 - [**__Awesome PostCSS__**](#awesome-postcss)
 	- [Official Resources](#official-resources)
