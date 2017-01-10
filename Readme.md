@@ -62,6 +62,7 @@ ___
 - [That postcss. Its so hot right now](https://cantina.co/that-postcss-its-so-hot-right-now/)
 - [Introduction to Postcss](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/)=======
 - [7 Postcss Pluguins to Ease You Into Postcss](https://www.sitepoint.com/7-postcss-plugins-to-ease-you-into-postcss/)
+- [Some thinks you may think about postcss](http://julian.io/some-things-you-may-think-about-postcss-and-you-might-be-wrong/)
 
 ### Task Runner
 
