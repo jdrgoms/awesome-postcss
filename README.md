@@ -32,8 +32,10 @@ Your contributions are always welcome. But, please take a quick gander at the [c
 
 ### Official Resources
 
+_Main resources available for consultation_
+
 - [**GitHub Repository ★13,158**](https://github.com/postcss/postcss) - Official postcss repository
-- [API Reference](http://api.postcss.org/index.html)
+- [API Reference](http://api.postcss.org/index.html) - Detailed postcss API
 
 ### Community
 
