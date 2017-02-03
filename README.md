@@ -36,14 +36,15 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [**GitHub Repository ★13,425**](https://github.com/postcss/postcss) - Official postcss repository
 - [API Reference](http://api.postcss.org/index.html) - Detailed postcss API
 
-<!--### Community
+## Community
+*Features to stay current*
 
-- [Twitter](https://twitter.com/PostCSS)
+- [Twitter](https://twitter.com/PostCSS) 
 - [Guitter](https://gitter.im/postcss/postcss)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/postcss)
 - [Vkontakte](https://m.vk.com/postcss)
 
-### Podcast
+<!-- ### Podcast
 
 - [206 JSJ  - PostCSS](https://devchat.tv/js-jabber/206-jsj-postcss-with-ben-briggs) with [Ben Briggs](https://github.com/ben-eb)
 - [Issue 24: The most stylish minifier](https://radiojs.ru/2015/06/radiojs-24/) - (Russian)
