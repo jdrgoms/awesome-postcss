@@ -13,7 +13,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ### Content
 
-- [**__Awesome PostCSS__**](#awesome-postcss)
+- **__Awesome PostCSS__**
 
 	- [Official Resources](#official-resources)
 	- [Community](#community)
@@ -29,9 +29,9 @@ Your contributions are always welcome. But, please take a quick gander at the co
 	- [License](#license)
 
 
-### Official Resources
+## Official Resources
 
-_Main resources available for consultation_
+*Main resources available for consultation*
 
 - [**GitHub Repository ★13,158**](https://github.com/postcss/postcss) - Official postcss repository
 - [API Reference](http://api.postcss.org/index.html) - Detailed postcss API
