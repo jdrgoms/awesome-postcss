@@ -1,6 +1,8 @@
-<img src="awepostcss.png" alt="Awesome PostCSS">
+# Awesome Postcss
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+
 [![Build Status](https://api.travis-ci.org/jjaderg/awesome-postcss.svg?branch=master)](https://travis-ci.org/jjaderg/awesome-postcss)
 
 > A curated list of awesome plugins, articles, videos and other things related to postcss.
@@ -18,12 +20,9 @@ Your contributions are always welcome. But, please take a quick gander at the [c
 	- [Podcast](#podcast)
 	- [Articles](#articles)
 	- [Task Runner](#task-runner)
-		- [Grunt Plugins](#grunt-plugins)
-		- [Gulp Plugins](#gulp-plugins)
 	- [Guides](#guides)
 	- [Plugins](#plugins)
 	- [Presentations](#presentations)
-  		- [Videos](#videos)
 	- [Who to Follow](#who-to-follow)
 	- [Contributing](#contributing)
 	- [Thanks to...](#thanks-to)
@@ -37,7 +36,7 @@ _Main resources available for consultation_
 - [**GitHub Repository ★13,158**](https://github.com/postcss/postcss) - Official postcss repository
 - [API Reference](http://api.postcss.org/index.html) - Detailed postcss API
 
-### Community
+<!--### Community
 
 - [Twitter](https://twitter.com/PostCSS)
 - [Guitter](https://gitter.im/postcss/postcss)
@@ -148,3 +147,4 @@ _Main resources available for consultation_
 
 ### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) © [Jader Gomes](https://github.com/jjaderg)
+-->
