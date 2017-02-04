@@ -72,19 +72,19 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [7 Postcss Pluguins to Ease You Into Postcss](https://www.sitepoint.com/7-postcss-plugins-to-ease-you-into-postcss/)
 - [Some thinks you may think about postcss](http://julian.io/some-things-you-may-think-about-postcss-and-you-might-be-wrong/)
 
-<!--### Task Runner
+## Task Runner
 
-#### Grunt Plugins
+##### Grunt Plugins
 
-> For those who use Grunt, some plugins to work with PostCSS.
+*For those who use Grunt, some plugins to work with PostCSS.*
 
-- [grunt-postcss](https://www.npmjs.com/package/grunt-postcss)
-- [grunt-postcss-import](https://www.npmjs.com/package/grunt-postcss-import)
-- [grunt-australian-stylesheets](https://www.npmjs.com/package/grunt-australian-stylesheets)
+- [grunt-postcss](https://www.npmjs.com/package/grunt-postcss) - Apply several post-processors to your CSS using PostCSS
+- [grunt-postcss-import](https://www.npmjs.com/package/grunt-postcss-import) - Inlining @import rules based on postcss-import
+- [grunt-australian-stylesheets](https://www.npmjs.com/package/grunt-australian-stylesheets) - Compile Australian CSS
 
+##### Gulp Plugins
 
-#### Gulp Plugins
-> For those who use Gulp, some plugins to work with PostCSS.
+*For those who use Gulp, some plugins to work with PostCSS.*
 
 - [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer/)
 - [gulp-postcss](https://www.npmjs.com/package/gulp-postcss/)
