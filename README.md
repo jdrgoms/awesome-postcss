@@ -78,34 +78,33 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 > *For those who use Grunt, some plugins to work with PostCSS.*
 
-- [grunt-postcss](https://www.npmjs.com/package/grunt-postcss) - Apply several post-processors to your CSS using PostCSS.
+- [grunt-postcss](https://www.npmjs.com/package/grunt-postcss) - Apply several post-processors to your css using PostCSS.
 - [grunt-postcss-import](https://www.npmjs.com/package/grunt-postcss-import) - Inlining @import rules based on postcss-import.
-- [grunt-australian-stylesheets](https://www.npmjs.com/package/grunt-australian-stylesheets) - Compile Australian CSS.
+- [grunt-australian-stylesheets](https://www.npmjs.com/package/grunt-australian-stylesheets) - Compile Australian css.
 
 ##### Gulp Plugins
 
 > *For those who use Gulp, some plugins to work with PostCSS.*
 
-- [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer/) - Prefix CSS
-- [gulp-postcss](https://www.npmjs.com/package/gulp-postcss/) - gulp plugin to pipe CSS through several plugins, but parse CSS only once.
-- [gulp-australian-stylesheets](https://www.npmjs.com/package/gulp-australian-stylesheets/) - Compile Australian CSS.
-- [gulp-rucksack](https://www.npmjs.com/package/gulp-rucksack/) - Gulp plugin for Rucksack - a little bag of CSS superpowers.
+- [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer/) - Prefix css
+- [gulp-postcss](https://www.npmjs.com/package/gulp-postcss/) - gulp plugin to pipe css through several plugins, but parse css only once.
+- [gulp-australian-stylesheets](https://www.npmjs.com/package/gulp-australian-stylesheets/) - Compile Australian css.
+- [gulp-rucksack](https://www.npmjs.com/package/gulp-rucksack/) - Gulp plugin for Rucksack - a little bag of css superpowers.
 - [gulp-pxtorem](https://www.npmjs.com/package/gulp-pxtorem/) - A gulp plugin for postcss-pxtorem.
-- [gulp-html-postcss](https://www.npmjs.com/package/gulp-html-postcss/) - Process inline CSS in HTML using PostCSS gulp plugin.
+- [gulp-html-postcss](https://www.npmjs.com/package/gulp-html-postcss/) - Process inline css in HTML using PostCSS gulp plugin.
 
+## Guides
 
-<!--### Guides
-> Guides for developers start their studies PostCSS.
+*Guides for developers start their studies PostCSS.*
 
-- **__PostCSS Deep Dive:__**
-    - [Create Your Own Plugin](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605)
-    - [Miscellaneous Goodies](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-miscellaneous-goodies--cms-24603)
-    - [Preprocessing with “PreCSS”](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-preprocessing-with-precss--cms-24583)
-    - [Roll Your Own Preprocessor](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-roll-your-own-preprocessor--cms-24584)
-    - [Shortcuts and Shorthand](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-shortcuts-and-shorthand--cms-24602)
-    - [What You Need to Know](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535)
+- [PostCSS Deep Dive: Create Your Own Plugin](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605)
+- [PostCSS Deep Dive: Miscellaneous Goodies](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-miscellaneous-goodies--cms-24603)
+- [PostCSS Deep Dive: Preprocessing with “PreCSS”](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-preprocessing-with-precss--cms-24583)
+- [PostCSS Deep Dive: Roll Your Own Preprocessor](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-roll-your-own-preprocessor--cms-24584)
+- [PostCSS Deep Dive: Shortcuts and Shorthand](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-shortcuts-and-shorthand--cms-24602)
+- [PostCSS Deep Dive: What You Need to Know](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535)
 
-- **__PostCSS Quickstart Guide:__**
+<!-- - **__PostCSS Quickstart Guide:__**
     - [Exploring Plugins](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-exploring-plugins--cms-24566)
     - [Gulp Setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
     - [Grunt Setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-grunt-setup--cms-24545)
@@ -117,7 +116,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
     - [Together with Sass, Stylus, or LESS](https://webdesign.tutsplus.com/tutorials/using-postcss-together-with-sass-stylus-or-less--cms-24591)
     - [with BEM and SUIT Methodologies](https://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodologies--cms-24592)
 
-
+<!--
 ### Plugins
 - [A searchable catalog of PostCSS plugins](http://postcss.parts/)
 - [Atom language support for PostCSS](https://github.com/azat-io/atom-language-postcss)
