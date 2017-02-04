@@ -1,4 +1,4 @@
-# Awesome Postcss 
+# Awesome PostCSS 
 
 > A tool for transforming CSS with JavaScript
 
@@ -37,6 +37,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [API Reference](http://api.postcss.org/index.html) - Detailed postcss API
 
 ## Community
+
 *Features to stay current*
 
 - [Twitter](https://twitter.com/PostCSS) 
@@ -44,15 +45,17 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/postcss)
 - [Vkontakte](https://m.vk.com/postcss)
 
-<!-- ### Podcast
+## Podcast
 
-- [206 JSJ  - PostCSS](https://devchat.tv/js-jabber/206-jsj-postcss-with-ben-briggs) with [Ben Briggs](https://github.com/ben-eb)
-- [Issue 24: The most stylish minifier](https://radiojs.ru/2015/06/radiojs-24/) - (Russian)
-- [web-standards-ru - Issue №9](https://soundcloud.com/web-standards/episode-9) - (Russian)
-- [Sass and PostCSS](https://podfanatic.com/podcast/non-breaking-space-show/episode/sam-richard-sass-and-postcss) with [Sam Richards](https://twitter.com/snugug)
-- [Post processing css](https://viewsourc.es/2015/06/15/episode-8-post-processing-css/)
 
-### Articles
+- [	206 JavaScript Jabber - PostCSS](https://devchat.tv/js-jabber/206-jsj-postcss-with-ben-briggs)
+- [Issue 24 radiojs - The most stylish minifier](https://radiojs.ru/2015/06/radiojs-24/) - *Russian*
+- [Web-standards-ru - Issue №9](https://soundcloud.com/web-standards/episode-9) - *Russian*
+- [Podfanatic - Sass and PostCSS](https://podfanatic.com/podcast/non-breaking-space-show/episode/sam-richard-sass-and-postcss)
+- [Viewsources Podcast - Post-processing css](https://viewsourc.es/2015/06/15/episode-8-post-processing-css/)
+
+
+<!--### Articles
 
 - [A look into writing future CSS with PostCSS and cssnext](https://bigbitecreative.com/a-look-into-writing-future-css-with-postcss-cssnext/)
 - [Breaking up with Sass: PostCSS](https://benfrain.com/breaking-up-with-sass-postcss/)
