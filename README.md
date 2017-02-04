@@ -131,26 +131,26 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
 - [postcss-loader](https://github.com/postcss/postcss-loader) - PostCSS loader for webpack
 
-<!--### Presentations
+## Presentations
 
-#### Videos
-- [PostCSS: First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html)
+##### Videos
+
+- [PostCSS - First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html)
 - [PostCSS the Future after Sass and Less](https://www.youtube.com/watch?v=73dl5dk9z4Q) by [@ai](https://github.com/ai)
 - [Fix global CSS with PostCSS](http://www.thedotpost.com/2015/12/andrey-sitnik-fix-global-css-with-postcss) by [@ai](https://github.com/ai)
 - [PostCSS, cssnext and the future of CSS](https://vimeo.com/159185299) by [@MoOx](https://github.com/MoOx)
 - [Kick your CSS up a notch with PostCSS](https://www.youtube.com/watch?v=-_gIKdHYP3E) by [@mxstbr](https://github.com/mxstbr)
 
-### Who to Follow
+## Who to Follow
 
 - Andrey Sitnik [@andreysitnik](https://twitter.com/andreysitnik)
 - Evil Martians [@evilmartians](https://twitter.com/evilmartians)
 
-### Thanks to...
+## Thanks to...
 
 - In particular [Afonso Pacifer](https://github.com/afonsopacifer) for helping me with CC License. :+1:
 - My friends [Marcus Silva](https://github.com/mvfsilva) and [Willian Justen](https://github.com/willianjusten) by motivating me. :v:
-- [Daniel Schmidt](https://github.com/danielmschmidt/) for his important contribution to the Awesome Post CSS list.
+- [Daniel Schmidt](https://github.com/danielmschmidt/) for your important contribution to this list.
 
-### License
+## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) © [Jader Gomes](https://github.com/jjaderg)
--->
