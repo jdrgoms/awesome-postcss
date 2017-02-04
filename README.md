@@ -76,25 +76,25 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ##### Grunt Plugins
 
-*For those who use Grunt, some plugins to work with PostCSS.*
+> *For those who use Grunt, some plugins to work with PostCSS.*
 
-- [grunt-postcss](https://www.npmjs.com/package/grunt-postcss) - Apply several post-processors to your CSS using PostCSS
-- [grunt-postcss-import](https://www.npmjs.com/package/grunt-postcss-import) - Inlining @import rules based on postcss-import
-- [grunt-australian-stylesheets](https://www.npmjs.com/package/grunt-australian-stylesheets) - Compile Australian CSS
+- [grunt-postcss](https://www.npmjs.com/package/grunt-postcss) - Apply several post-processors to your CSS using PostCSS.
+- [grunt-postcss-import](https://www.npmjs.com/package/grunt-postcss-import) - Inlining @import rules based on postcss-import.
+- [grunt-australian-stylesheets](https://www.npmjs.com/package/grunt-australian-stylesheets) - Compile Australian CSS.
 
 ##### Gulp Plugins
 
-*For those who use Gulp, some plugins to work with PostCSS.*
+> *For those who use Gulp, some plugins to work with PostCSS.*
 
-- [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer/)
-- [gulp-postcss](https://www.npmjs.com/package/gulp-postcss/)
-- [gulp-australian-stylesheets](https://www.npmjs.com/package/gulp-australian-stylesheets/)
-- [gulp-rucksack](https://www.npmjs.com/package/gulp-rucksack/)
-- [gulp-pxtorem](https://www.npmjs.com/package/gulp-pxtorem/)
-- [gulp-html-postcss](https://www.npmjs.com/package/gulp-html-postcss/)
+- [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer/) - Prefix CSS
+- [gulp-postcss](https://www.npmjs.com/package/gulp-postcss/) - gulp plugin to pipe CSS through several plugins, but parse CSS only once.
+- [gulp-australian-stylesheets](https://www.npmjs.com/package/gulp-australian-stylesheets/) - Compile Australian CSS.
+- [gulp-rucksack](https://www.npmjs.com/package/gulp-rucksack/) - Gulp plugin for Rucksack - a little bag of CSS superpowers.
+- [gulp-pxtorem](https://www.npmjs.com/package/gulp-pxtorem/) - A gulp plugin for postcss-pxtorem.
+- [gulp-html-postcss](https://www.npmjs.com/package/gulp-html-postcss/) - Process inline CSS in HTML using PostCSS gulp plugin.
 
 
-### Guides
+<!--### Guides
 > Guides for developers start their studies PostCSS.
 
 - **__PostCSS Deep Dive:__**
