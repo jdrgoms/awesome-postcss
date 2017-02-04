@@ -99,38 +99,39 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ##### PostCSS Deep Dive:
 
-- [Create Your Own Plugin](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605)
-- [Miscellaneous Goodies](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-miscellaneous-goodies--cms-24603)
+- [Create your own plugin](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605)
+- [Miscellaneous goodies](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-miscellaneous-goodies--cms-24603)
 - [Preprocessing with “PreCSS”](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-preprocessing-with-precss--cms-24583)
-- [Roll Your Own Preprocessor](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-roll-your-own-preprocessor--cms-24584)
-- [Shortcuts and Shorthand](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-shortcuts-and-shorthand--cms-24602)
-- [What You Need to Know](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535)
+- [Roll your own preprocessor](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-roll-your-own-preprocessor--cms-24584)
+- [Shortcuts and shorthand](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-shortcuts-and-shorthand--cms-24602)
+- [What you need to know](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535)
 
 ##### PostCSS Quickstart Guide:
 
-- [Exploring Plugins](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-exploring-plugins--cms-24566)
-- [Gulp Setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
-- [Grunt Setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-grunt-setup--cms-24545)
-- [Instant Setup Options](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-instant-setup-options--cms-24536)
+- [Exploring plugins](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-exploring-plugins--cms-24566)
+- [Gulp setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
+- [Grunt setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-grunt-setup--cms-24545)
+- [Instant setup options](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-instant-setup-options--cms-24536)
 
 ##### Using PostCSS:
   
-- [for Minification and Optimization](https://webdesign.tutsplus.com/tutorials/using-postcss-for-minification-and-optimization--cms-24568)
-- [for Cross Browser Compatibility](https://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567)
-- [Together with Sass, Stylus, or LESS](https://webdesign.tutsplus.com/tutorials/using-postcss-together-with-sass-stylus-or-less--cms-24591)
-- [with BEM and SUIT Methodologies](https://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodologies--cms-24592)
+- [for minification and optimization](https://webdesign.tutsplus.com/tutorials/using-postcss-for-minification-and-optimization--cms-24568)
+- [for cross browser compatibility](https://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567)
+- [Together with sass, stylus, or LESS](https://webdesign.tutsplus.com/tutorials/using-postcss-together-with-sass-stylus-or-less--cms-24591)
+- [with BEM and SUIT methodologies](https://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodologies--cms-24592)
 
-<!--
+
 ### Plugins
-- [A searchable catalog of PostCSS plugins](http://postcss.parts/)
-- [Atom language support for PostCSS](https://github.com/azat-io/atom-language-postcss)
-- [PostCSS adapter for Stylus](https://github.com/seaneking/poststylus)
-- [This is a PostCSS plugin for adding Instagram filters to your photos.](https://github.com/azat-io/postcss-instagram)
-- [Simple normalize.css wrapper for PostCSS](https://github.com/seaneking/postcss-normalize)
-- [Font Magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
-- [PostCSS loader for webpack](https://github.com/postcss/postcss-loader)
 
-### Presentations
+- [postcss parts](http://postcss.parts/) - A searchable catalog of PostCSS plugins
+- [atom-language-postcss](https://github.com/azat-io/atom-language-postcss) - Atom language support for PostCSS
+- [poststylus](https://github.com/seaneking/poststylus) - PostCSS adapter for Stylus
+- [postcss-instagram](https://github.com/azat-io/postcss-instagram) - This is a PostCSS plugin for adding Instagram filters to your photos.
+- [postcss-normalize](https://github.com/seaneking/postcss-normalize) - Simple normalize.css wrapper for PostCSS
+- [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
+- [postcss-loader](https://github.com/postcss/postcss-loader) - PostCSS loader for webpack
+
+<!--### Presentations
 
 #### Videos
 - [PostCSS: First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html)
