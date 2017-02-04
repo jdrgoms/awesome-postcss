@@ -97,24 +97,28 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 *Guides for developers start their studies PostCSS.*
 
-- [PostCSS Deep Dive: Create Your Own Plugin](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605)
-- [PostCSS Deep Dive: Miscellaneous Goodies](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-miscellaneous-goodies--cms-24603)
-- [PostCSS Deep Dive: Preprocessing with “PreCSS”](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-preprocessing-with-precss--cms-24583)
-- [PostCSS Deep Dive: Roll Your Own Preprocessor](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-roll-your-own-preprocessor--cms-24584)
-- [PostCSS Deep Dive: Shortcuts and Shorthand](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-shortcuts-and-shorthand--cms-24602)
-- [PostCSS Deep Dive: What You Need to Know](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535)
+##### PostCSS Deep Dive:
 
-<!-- - **__PostCSS Quickstart Guide:__**
-    - [Exploring Plugins](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-exploring-plugins--cms-24566)
-    - [Gulp Setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
-    - [Grunt Setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-grunt-setup--cms-24545)
-    - [Instant Setup Options](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-instant-setup-options--cms-24536)
+- [Create Your Own Plugin](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605)
+- [Miscellaneous Goodies](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-miscellaneous-goodies--cms-24603)
+- [Preprocessing with “PreCSS”](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-preprocessing-with-precss--cms-24583)
+- [Roll Your Own Preprocessor](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-roll-your-own-preprocessor--cms-24584)
+- [Shortcuts and Shorthand](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-shortcuts-and-shorthand--cms-24602)
+- [What You Need to Know](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535)
 
-- **__Using PostCSS:__**    
-    - [for Minification and Optimization](https://webdesign.tutsplus.com/tutorials/using-postcss-for-minification-and-optimization--cms-24568)
-    - [for Cross Browser Compatibility](https://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567)
-    - [Together with Sass, Stylus, or LESS](https://webdesign.tutsplus.com/tutorials/using-postcss-together-with-sass-stylus-or-less--cms-24591)
-    - [with BEM and SUIT Methodologies](https://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodologies--cms-24592)
+##### PostCSS Quickstart Guide:
+
+- [Exploring Plugins](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-exploring-plugins--cms-24566)
+- [Gulp Setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
+- [Grunt Setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-grunt-setup--cms-24545)
+- [Instant Setup Options](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-instant-setup-options--cms-24536)
+
+##### Using PostCSS:
+  
+- [for Minification and Optimization](https://webdesign.tutsplus.com/tutorials/using-postcss-for-minification-and-optimization--cms-24568)
+- [for Cross Browser Compatibility](https://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567)
+- [Together with Sass, Stylus, or LESS](https://webdesign.tutsplus.com/tutorials/using-postcss-together-with-sass-stylus-or-less--cms-24591)
+- [with BEM and SUIT Methodologies](https://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodologies--cms-24592)
 
 <!--
 ### Plugins
