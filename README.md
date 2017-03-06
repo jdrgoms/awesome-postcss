@@ -131,6 +131,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
 - [postcss-loader](https://github.com/postcss/postcss-loader) - PostCSS loader for webpack
 - [css-declaration-sorter](https://github.com/Siilwyn/css-declaration-sorter) - A Node.js module and PostCSS plugin to sort the CSS declarations inside each selector based on their property names by [@Siilwyn](https://github.com/Siilwyn)
+- [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using PostCSS
 
 ## Presentations
 
