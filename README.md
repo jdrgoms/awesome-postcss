@@ -41,7 +41,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 *Features to stay current*
 
 - [Twitter](https://twitter.com/PostCSS) 
-- [Guitter](https://gitter.im/postcss/postcss)
+- [Gitter](https://gitter.im/postcss/postcss)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/postcss)
 - [Vkontakte](https://m.vk.com/postcss)
 
