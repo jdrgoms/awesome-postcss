@@ -42,7 +42,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 - [Twitter](https://twitter.com/PostCSS)
 - [Gitter](https://gitter.im/postcss/postcss)
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/postcss)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/postcss)
 - [Vkontakte](https://m.vk.com/postcss)
 
 ## Podcast
@@ -123,11 +123,11 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ### Plugins
 
-- [postcss parts](http://postcss.parts/) - A searchable catalog of PostCSS plugins
+- [postcss parts](https://www.postcss.parts) - A searchable catalog of PostCSS plugins
 - [atom-language-postcss](https://github.com/azat-io/atom-language-postcss) - Atom language support for PostCSS
 - [poststylus](https://github.com/seaneking/poststylus) - PostCSS adapter for Stylus
 - [postcss-instagram](https://github.com/azat-io/postcss-instagram) - This is a PostCSS plugin for adding Instagram filters to your photos.
-- [postcss-normalize](https://github.com/seaneking/postcss-normalize) - Simple normalize.css wrapper for PostCSS
+- [postcss-normalize](https://github.com/jonathantneal/postcss-normalize) - Simple normalize.css wrapper for PostCSS
 - [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
 - [postcss-loader](https://github.com/postcss/postcss-loader) - PostCSS loader for webpack
 - [css-declaration-sorter](https://github.com/Siilwyn/css-declaration-sorter) - A Node.js module and PostCSS plugin to sort the CSS declarations inside each selector based on their property names by [@Siilwyn](https://github.com/Siilwyn)
@@ -141,7 +141,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 - [PostCSS - First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html)
 - [PostCSS the Future after Sass and Less](https://www.youtube.com/watch?v=73dl5dk9z4Q) by [@ai](https://github.com/ai)
-- [Fix global CSS with PostCSS](http://www.thedotpost.com/2015/12/andrey-sitnik-fix-global-css-with-postcss) by [@ai](https://github.com/ai)
+- [Fix global CSS with PostCSS](https://www.dotconferences.com/2015/12/andrey-sitnik-fix-global-css-with-postcss) by [@ai](https://github.com/ai)
 - [PostCSS, cssnext and the future of CSS](https://vimeo.com/159185299) by [@MoOx](https://github.com/MoOx)
 - [Kick your CSS up a notch with PostCSS](https://www.youtube.com/watch?v=-_gIKdHYP3E) by [@mxstbr](https://github.com/mxstbr)
 
@@ -153,7 +153,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 ## Thanks to...
 
 - In particular [Afonso Pacifer](https://github.com/afonsopacifer) for helping me with CC License. :+1:
-- My friends [Marcus Silva](https://github.com/mvfsilva) and [Willian Justen](https://github.com/willianjusten) by motivating me. :v:
+- My friends [Marcus Silva](https://github.com/mvfsillva) and [Willian Justen](https://github.com/willianjusten) by motivating me. :v:
 - [Daniel Schmidt](https://github.com/danielmschmidt/) for your important contribution to this list.
 
 ## License
