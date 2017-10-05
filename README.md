@@ -64,7 +64,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [Improving the Quality of Your CSS with PostCSS](https://www.sitepoint.com/improving-the-quality-of-your-css-with-postcss/)
 - [Meet PostCSS - Future of CSS after preprocessors](http://www.meetpostcss.com/)
 - [Musings from Someone Discovering PostCSS](https://taupecat.com/blog/2016/04/28/musings-from-someone-discovering-postcss/)
-- [Nem Sass, nem LESS, nem Stylus: PostCSS!](http://blog.taller.net.br/nem-sass-nem-less-nem-stylus-postcss/) - *Brazilian Portuguese*
+- [Nem Sass, nem LESS, nem Stylus: PostCSS!](https://blog.taller.net.br/nem-sass-nem-less-nem-stylus-postcss/) - *Brazilian Portuguese*
 - [PostCSS – Sass Killer or Preprocessing Pretender?](https://ashleynolan.co.uk/blog/postcss-a-review)
 - [So you want to make a PostCSS plugin](https://css-tricks.com/want-make-postcss-plugin/)
 - [That postcss. Its so hot right now](https://cantina.co/that-postcss-its-so-hot-right-now/)
