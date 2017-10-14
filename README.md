@@ -24,7 +24,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ## Official Resources
 
-- [**GitHub Repository ★16,246**](https://github.com/postcss/postcss) - Official postcss repository.
+- [GitHub Repository **★ 16,246**](https://github.com/postcss/postcss) - Official postcss repository.
 - [API Reference](http://api.postcss.org/index.html) - Detailed postcss API.
 
 ## Community
@@ -32,15 +32,15 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [Twitter](https://twitter.com/PostCSS) - Official twitter of postCSS.
 - [Gitter](https://gitter.im/postcss/postcss) - Open source instant messaging for postCSS users and developers.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/postcss) - Where questions about postCSS are answered.
-- [Vkontakte](https://m.vk.com/postcss) - Is a Russian-based online social networking service.
+- [Vkontakte](https://m.vk.com/postcss) - A Russian-based online social networking service.
 
 ## Podcast
 
-- [	206 JavaScript Jabber - PostCSS](https://devchat.tv/js-jabber/206-jsj-postcss-with-ben-briggs)
-- [Issue 24 radiojs - The most stylish minifier](https://radiojs.ru/2015/06/radiojs-24/) - *Russian*
+- [	206 JavaScript Jabber | PostCSS with Ben Briggs](https://devchat.tv/js-jabber/206-jsj-postcss-with-ben-briggs) - *English*
+- [Issue 24 radiojs | The most stylish minifier](https://radiojs.ru/2015/06/radiojs-24/) - *Russian*
 - [Issue №9 Web standards-ru](https://soundcloud.com/web-standards/episode-9) - *Russian*
-- [Podfanatic - Sass and PostCSS](https://podfanatic.com/podcast/non-breaking-space-show/episode/sam-richard-sass-and-postcss)
-- [Viewsources Podcast - post processing css](https://viewsourc.es/2015/06/15/episode-8-post-processing-css/)
+- [Podfanatic | Sam Richard — Sass, Front-end Development](https://podfanatic.com/podcast/non-breaking-space-show/episode/sam-richard-sass-and-postcss) - *English*
+- [Viewsources Podcast | post processing css](https://viewsourc.es/2015/06/15/episode-8-post-processing-css/) - *English*
 
 ## Articles
 
