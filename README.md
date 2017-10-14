@@ -22,16 +22,11 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [Plugins](#plugins)
 - [Presentations](#presentations)
 - [Who to Follow](#who-to-follow)
-- [Contributing](#contributing)
-- [Thanks to...](#thanks-to)
 - [License](#license)
-
 
 ## Official Resources
 
-*Main resources available for consultation*
-
-- [**GitHub Repository ★13,425**](https://github.com/postcss/postcss) - Official postcss repository
+- [**GitHub Repository ★16,246**](https://github.com/postcss/postcss) - Official postcss repository
 - [API Reference](http://api.postcss.org/index.html) - Detailed postcss API
 
 ## Community
