@@ -7,7 +7,7 @@
 
 > An selected list of plugins, articles, resources and other things related to PostCSS.
 
-**PostCSS** is not a preprocessor; it doesn’t transform CSS. As a matter of fact, it doesn’t do much by itself at all. What it does is provide a CSS parser and a framework for creating plugins that can analyse, lint, handle assets, optimise, create fallbacks, and otherwise transform parsed CSS. PostCSS parses CSS into an abstract syntax tree (AST), passes it through a series of plugins, and then concatenates back into a string.
+**PostCSS** is not a preprocessor; it doesn’t transform CSS. As a matter of fact, it doesn’t do much by itself at all. What it does is provide a CSS parser and a framework for creating plugins that can analyse, lint, handle assets, optimise, create fallbacks, and otherwise transform parsed CSS. PostCSS parses CSS into an _abstract syntax tree [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree)_, passes it through a series of plugins, and then concatenates back into a string.
 
 
 
