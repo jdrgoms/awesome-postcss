@@ -11,22 +11,20 @@
 
 Your contributions are always welcome. But, please take a quick gander at the contribution [guidelines](https://github.com/jjaderg/awesome-postcss/blob/master/CONTRIBUTING.md) first.
 
-### Content
+## Contents
 
-- **__Awesome PostCSS__**
-
- - [Official Resources](#official-resources)
- - [Community](#community)
- - [Podcast](#podcast)
- - [Articles](#articles)
- - [Task Runner](#task-runner)
- - [Guides](#guides)
- - [Plugins](#plugins)
- - [Presentations](#presentations)
- - [Who to Follow](#who-to-follow)
- - [Contributing](#contributing)
- - [Thanks to...](#thanks-to)
- - [License](#license)
+- [Official Resources](#official-resources)
+- [Community](#community)
+- [Podcast](#podcast)
+- [Articles](#articles)
+- [Task Runner](#task-runner)
+- [Guides](#guides)
+- [Plugins](#plugins)
+- [Presentations](#presentations)
+- [Who to Follow](#who-to-follow)
+- [Contributing](#contributing)
+- [Thanks to...](#thanks-to)
+- [License](#license)
 
 
 ## Official Resources
