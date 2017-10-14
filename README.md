@@ -21,22 +21,18 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [Guides](#guides)
 - [Plugins](#plugins)
 - [Presentations](#presentations)
-- [Who to Follow](#who-to-follow)
-- [License](#license)
 
 ## Official Resources
 
-- [**GitHub Repository ★16,246**](https://github.com/postcss/postcss) - Official postcss repository
-- [API Reference](http://api.postcss.org/index.html) - Detailed postcss API
+- [**GitHub Repository ★16,246**](https://github.com/postcss/postcss) - Official postcss repository.
+- [API Reference](http://api.postcss.org/index.html) - Detailed postcss API.
 
 ## Community
 
-*Features to stay current*
-
-- [Twitter](https://twitter.com/PostCSS)
-- [Gitter](https://gitter.im/postcss/postcss)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/postcss)
-- [Vkontakte](https://m.vk.com/postcss)
+- [Twitter](https://twitter.com/PostCSS) - Official twitter of postCSS.
+- [Gitter](https://gitter.im/postcss/postcss) - Open source instant messaging for postCSS users and developers.
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/postcss) - Where questions about postCSS are answered.
+- [Vkontakte](https://m.vk.com/postcss) - Is a Russian-based online social networking service.
 
 ## Podcast
 
