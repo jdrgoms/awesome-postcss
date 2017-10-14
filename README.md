@@ -1,4 +1,4 @@
-<img src="logo.svg" alt="Awesome PostCSS">
+<img src="logo.svg" alt="Awesome PostCSS" style="text-align: center;">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/jjaderg/awesome-postcss.svg?branch=master)](https://travis-ci.org/jjaderg/awesome-postcss)
@@ -13,18 +13,18 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 - **__Awesome PostCSS__**
 
-	- [Official Resources](#official-resources)
-	- [Community](#community)
-	- [Podcast](#podcast)
-	- [Articles](#articles)
-	- [Task Runner](#task-runner)
-	- [Guides](#guides)
-	- [Plugins](#plugins)
-	- [Presentations](#presentations)
-	- [Who to Follow](#who-to-follow)
-	- [Contributing](#contributing)
-	- [Thanks to...](#thanks-to)
-	- [License](#license)
+ - [Official Resources](#official-resources)
+ - [Community](#community)
+ - [Podcast](#podcast)
+ - [Articles](#articles)
+ - [Task Runner](#task-runner)
+ - [Guides](#guides)
+ - [Plugins](#plugins)
+ - [Presentations](#presentations)
+ - [Who to Follow](#who-to-follow)
+ - [Contributing](#contributing)
+ - [Thanks to...](#thanks-to)
+ - [License](#license)
 
 
 ## Official Resources
