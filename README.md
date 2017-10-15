@@ -65,22 +65,24 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 `Grunt`
 
-- [grunt-australian-stylesheets](https://github.com/stevemao/grunt-australian-stylesheets) - Compile Australian css with [PostCSS australian stylesheets](https://github.com/dp-lewis/postcss-australian-stylesheets).
+- [grunt-australian-stylesheets](https://github.com/stevemao/grunt-australian-stylesheets) - Compile Australian css with [postcss-australian-stylesheets
+](https://github.com/dp-lewis/postcss-australian-stylesheets).
 
 `Gulp`
 
 - [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer) - Prefix css with Autoprefixer.
 - [gulp-postcss](https://github.com/postcss/gulp-postcss) -  Pipe css through postcss processors with a single parse.
-- [gulp-australian-stylesheets](https://github.com/stevemao/gulp-australian-stylesheets) - Compile Australian css with [PostCSS australian stylesheets](https://github.com/dp-lewis/postcss-australian-stylesheets).
+- [gulp-australian-stylesheets](https://github.com/stevemao/gulp-australian-stylesheets) - Compile Australian css with [postcss-australian-stylesheets
+](https://github.com/dp-lewis/postcss-australian-stylesheets).
 - [gulp-rucksack](https://github.com/seaneking/gulp-rucksack) - Plugin for rucksack - a little bag of css superpowers.
 - [gulp-pxtorem](https://github.com/cuth/gulp-pxtorem) - Plugin for [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem).
 - [gulp-html-postcss](https://github.com/StartPolymer/gulp-html-postcss) - Process inline css in HTML using postcss gulp plugin.
 
 ## Guides
 
-##### PostCSS Deep Dive:
+`PostCSS Deep Dive:`
 
-- [Create your own plugin](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605)
+- PostCSS Deep Dive: [Create your own plugin](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605)
 - [Miscellaneous goodies](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-miscellaneous-goodies--cms-24603)
 - [Preprocessing with “PreCSS”](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-preprocessing-with-precss--cms-24583)
 - [Roll your own preprocessor](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-roll-your-own-preprocessor--cms-24584)
