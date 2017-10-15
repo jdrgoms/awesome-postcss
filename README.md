@@ -99,29 +99,29 @@ ___
 
 ## Plugins
 
-- [postcss parts](https://www.postcss.parts) - A searchable catalog of postcss plugins.
-- [atom-language-postcss](https://github.com/azat-io/atom-language-postcss) - Atom language support for postcss.
-- [poststylus](https://github.com/seaneking/poststylus) - Postcss adapter for Stylus.
-- [postcss-instagram](https://github.com/azat-io/postcss-instagram) - This is a postcss plugin for adding Instagram filters to your photos.
-- [postcss-normalize](https://github.com/jonathantneal/postcss-normalize) - Simple normalize.css wrapper for postcss.
+- [postcss parts](https://www.postcss.parts) - A searchable catalog of postcss plugins by [@mxstbr](https://github.com/mxstbr).
+- [atom-language-postcss](https://github.com/azat-io/atom-language-postcss) - Atom language support for postcss by [@azat-io](https://github.com/azat-io).
+- [poststylus](https://github.com/seaneking/poststylus) - Postcss adapter for stylus by [@seaneking](https://github.com/seaneking).
+- [postcss-instagram](https://github.com/azat-io/postcss-instagram) - This is a postcss plugin for adding instagram filters to your photos by [@azat-io](https://github.com/azat-io).
+- [postcss-normalize](https://github.com/jonathantneal/postcss-normalize) - Simple normalize.css wrapper for postcss by [@jonathantneal](https://github.com/jonathantneal).
 - [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal).
-- [postcss-loader](https://github.com/postcss/postcss-loader) - Postcss loader for webpack.
-- [css-declaration-sorter](https://github.com/Siilwyn/css-declaration-sorter) - A Node.js module and postcss plugin to sort the css declarations inside each selector based on their property names by [@Siilwyn](https://github.com/Siilwyn).
-- [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using postcss.
-- [postcss-selector-parser](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings.
-- [postcss-html](https://github.com/gucong3000/postcss-html) - Postcss Syntax for parsing HTML / Markdown / Vue component.
+- [postcss-loader](https://github.com/postcss/postcss-loader) - Postcss loader for webpack by [PostCSS Team](https://github.com/postcss).
+- [css-declaration-sorter](https://github.com/Siilwyn/css-declaration-sorter) - Sort css declarations fast and automatically in a certain order by [@siilwyn](https://github.com/Siilwyn).
+- [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using postcss by [@cuth](https://github.com/cuth).
+- [postcss-selector-parser](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings by [PostCSS Team](https://github.com/postcss).
+- [postcss-html](https://github.com/gucong3000/postcss-html) - Postcss Syntax for parsing HTML / Markdown / Vue component by [@gucong3000](https://github.com/gucong3000).
 
 ## Presentations
 
-##### Videos
+`Videos`
 
-- [PostCSS - First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html)
+- [PostCSS - First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html) by [@planetoftheweb](https://github.com/planetoftheweb)
 - [PostCSS the Future after Sass and Less](https://www.youtube.com/watch?v=73dl5dk9z4Q) by [@ai](https://github.com/ai)
 - [Fix global CSS with PostCSS](https://www.dotconferences.com/2015/12/andrey-sitnik-fix-global-css-with-postcss) by [@ai](https://github.com/ai)
 - [PostCSS, cssnext and the future of CSS](https://vimeo.com/159185299) by [@MoOx](https://github.com/MoOx)
 - [Kick your CSS up a notch with PostCSS](https://www.youtube.com/watch?v=-_gIKdHYP3E) by [@mxstbr](https://github.com/mxstbr)
 
-## Who to Follow
+`Who to Follow`
 
 - Andrey Sitnik [@andreysitnik](https://twitter.com/andreysitnik)
 - Evil Martians [@evilmartians](https://twitter.com/evilmartians)
