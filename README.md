@@ -99,17 +99,17 @@ ___
 
 ## Plugins
 
-- [postcss parts](https://www.postcss.parts) - A searchable catalog of PostCSS plugins
-- [atom-language-postcss](https://github.com/azat-io/atom-language-postcss) - Atom language support for PostCSS
-- [poststylus](https://github.com/seaneking/poststylus) - PostCSS adapter for Stylus
-- [postcss-instagram](https://github.com/azat-io/postcss-instagram) - This is a PostCSS plugin for adding Instagram filters to your photos.
-- [postcss-normalize](https://github.com/jonathantneal/postcss-normalize) - Simple normalize.css wrapper for PostCSS
-- [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
-- [postcss-loader](https://github.com/postcss/postcss-loader) - PostCSS loader for webpack
-- [css-declaration-sorter](https://github.com/Siilwyn/css-declaration-sorter) - A Node.js module and PostCSS plugin to sort the CSS declarations inside each selector based on their property names by [@Siilwyn](https://github.com/Siilwyn)
-- [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using PostCSS
-- [postcss-selector-parser](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings
-- [postcss-html](https://github.com/gucong3000/postcss-html) - PostCSS Syntax for parsing HTML / Markdown / Vue component
+- [postcss parts](https://www.postcss.parts) - A searchable catalog of postcss plugins.
+- [atom-language-postcss](https://github.com/azat-io/atom-language-postcss) - Atom language support for postcss.
+- [poststylus](https://github.com/seaneking/poststylus) - Postcss adapter for Stylus.
+- [postcss-instagram](https://github.com/azat-io/postcss-instagram) - This is a postcss plugin for adding Instagram filters to your photos.
+- [postcss-normalize](https://github.com/jonathantneal/postcss-normalize) - Simple normalize.css wrapper for postcss.
+- [postcss-font-magician](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal).
+- [postcss-loader](https://github.com/postcss/postcss-loader) - Postcss loader for webpack.
+- [css-declaration-sorter](https://github.com/Siilwyn/css-declaration-sorter) - A Node.js module and postcss plugin to sort the css declarations inside each selector based on their property names by [@Siilwyn](https://github.com/Siilwyn).
+- [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using postcss.
+- [postcss-selector-parser](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings.
+- [postcss-html](https://github.com/gucong3000/postcss-html) - Postcss Syntax for parsing HTML / Markdown / Vue component.
 
 ## Presentations
 
