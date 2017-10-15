@@ -82,26 +82,26 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ###### PostCSS Deep Dive
 
-- `PostCSS Deep Dive:` [Create your own plugin](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605)
-- `PostCSS Deep Dive:` [Miscellaneous goodies](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-miscellaneous-goodies--cms-24603)
-- `PostCSS Deep Dive:` [Preprocessing with “PreCSS”](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-preprocessing-with-precss--cms-24583)
-- `PostCSS Deep Dive:` [Roll your own preprocessor](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-roll-your-own-preprocessor--cms-24584)
-- `PostCSS Deep Dive:` [Shortcuts and shorthand](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-shortcuts-and-shorthand--cms-24602)
-- `PostCSS Deep Dive:` [What you need to know](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535)
+- `PostCSS Deep Dive:` [Create your own plugin](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605).
+- `PostCSS Deep Dive:` [Miscellaneous goodies](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-miscellaneous-goodies--cms-24603).
+- `PostCSS Deep Dive:` [Preprocessing with “PreCSS”](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-preprocessing-with-precss--cms-24583).
+- `PostCSS Deep Dive:` [Roll your own preprocessor](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-roll-your-own-preprocessor--cms-24584).
+- `PostCSS Deep Dive:` [Shortcuts and shorthand](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-shortcuts-and-shorthand--cms-24602).
+- `PostCSS Deep Dive:` [What you need to know](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535).
 
 ###### PostCSS Quickstart Guide
 
-- `PostCSS Quickstart Guide:` [Exploring plugins](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-exploring-plugins--cms-24566)
-- `PostCSS Quickstart Guide:` [Gulp setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
-- `PostCSS Quickstart Guide:` [Grunt setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-grunt-setup--cms-24545)
-- `PostCSS Quickstart Guide:` [Instant setup options](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-instant-setup-options--cms-24536)
+- `PostCSS Quickstart Guide:` [Exploring plugins](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-exploring-plugins--cms-24566).
+- `PostCSS Quickstart Guide:` [Gulp setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543).
+- `PostCSS Quickstart Guide:` [Grunt setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-grunt-setup--cms-24545).
+- `PostCSS Quickstart Guide:` [Instant setup options](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-instant-setup-options--cms-24536).
 
-###### PUsing PostCSS
+###### Using PostCSS
 
-- `Using PostCSS:` [for minification and optimization](https://webdesign.tutsplus.com/tutorials/using-postcss-for-minification-and-optimization--cms-24568)
-- `Using PostCSS:` [for cross browser compatibility](https://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567)
-- `Using PostCSS:` [Together with sass, stylus, or LESS](https://webdesign.tutsplus.com/tutorials/using-postcss-together-with-sass-stylus-or-less--cms-24591)
-- `Using PostCSS:` [with BEM and SUIT methodologies](https://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodologies--cms-24592)
+- `Using PostCSS:` [for minification and optimization](https://webdesign.tutsplus.com/tutorials/using-postcss-for-minification-and-optimization--cms-24568).
+- `Using PostCSS:` [for cross browser compatibility](https://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567).
+- `Using PostCSS:` [Together with sass, stylus, or less](https://webdesign.tutsplus.com/tutorials/using-postcss-together-with-sass-stylus-or-less--cms-24591).
+- `Using PostCSS:` [with BEM and SUIT methodologies](https://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodologies--cms-24592).
 
 ## Plugins
 
@@ -121,13 +121,13 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 `Videos`
 
-- [PostCSS - First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html) by [@planetoftheweb](https://github.com/planetoftheweb)
-- [PostCSS the Future after Sass and Less](https://www.youtube.com/watch?v=73dl5dk9z4Q) by [@ai](https://github.com/ai)
-- [Fix global CSS with PostCSS](https://www.dotconferences.com/2015/12/andrey-sitnik-fix-global-css-with-postcss) by [@ai](https://github.com/ai)
-- [PostCSS, cssnext and the future of CSS](https://vimeo.com/159185299) by [@MoOx](https://github.com/MoOx)
-- [Kick your CSS up a notch with PostCSS](https://www.youtube.com/watch?v=-_gIKdHYP3E) by [@mxstbr](https://github.com/mxstbr)
+- [PostCSS - First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html) - A quick first look at postcss, an engine for processing css with javascript by [@planetoftheweb](https://github.com/planetoftheweb).
+- [PostCSS the Future after Sass and Less](https://www.youtube.com/watch?v=73dl5dk9z4Q) - Andrey will talk about ideas behind the postcss by [@ai](https://github.com/ai).
+- [Fix global CSS with PostCSS](https://www.dotconferences.com/2015/12/andrey-sitnik-fix-global-css-with-postcss) - Andrey explains how to use the power of postcss to make isolated components without a global reset and avoid conflicts between them by [@ai](https://github.com/ai).
+- [PostCSS, cssnext and the future of CSS](https://vimeo.com/159185299) - Maxime explains how the postcss and its ecosystem will help you to avoid to write some legacy code, to lint you code or to write and enjoy today tomorrow’s CSS syntax, today, using cssnext by [@MoOx](https://github.com/MoOx).
+- [Kick your CSS up a notch with PostCSS](https://www.youtube.com/watch?v=-_gIKdHYP3E) - Learn how to bring your CSS to the next level with PostCSS. Explore the endless possibilities and master writing a CSS transformation plugin by [@mxstbr](https://github.com/mxstbr).
 
-`Who to Follow`
+## Who to Follow
 
 - Andrey Sitnik [@andreysitnik](https://twitter.com/andreysitnik)
 - Evil Martians [@evilmartians](https://twitter.com/evilmartians)
