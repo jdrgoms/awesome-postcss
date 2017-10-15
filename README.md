@@ -29,9 +29,9 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ## Community
 
-- [Twitter](https://twitter.com/PostCSS) - Official twitter of postCSS.
-- [Gitter](https://gitter.im/postcss/postcss) - Open source instant messaging for postCSS users and developers.
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/postcss) - Where questions about postCSS are answered.
+- [Twitter](https://twitter.com/PostCSS) - Official twitter of postcss.
+- [Gitter](https://gitter.im/postcss/postcss) - Open source instant messaging for postcss users and developers.
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/postcss) - Where questions about postcss are answered.
 - [Vkontakte](https://m.vk.com/postcss) - A Russian-based online social networking service.
 
 ## Podcast
@@ -63,18 +63,18 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ## Task Runner
 
-#### Grunt Plugins
+### Grunt
 
-- [grunt-australian-stylesheets](https://github.com/stevemao/grunt-australian-stylesheets) - Compile Australian CSS with [postcss-australian-stylesheets].
+- [grunt-australian-stylesheets](https://github.com/stevemao/grunt-australian-stylesheets) - Compile Australian css with [PostCSS australian stylesheets](https://github.com/dp-lewis/postcss-australian-stylesheets).
 
-#### Gulp Plugins
+### Gulp
 
-- [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer) - Prefix CSS with Autoprefixer.
-- [gulp-postcss](https://github.com/postcss/gulp-postcss) -  Pipe CSS through PostCSS processors with a single parse.
-- [gulp-australian-stylesheets](https://github.com/stevemao/gulp-australian-stylesheets) - Compile Australian CSS with [postcss-australian-stylesheets](https://github.com/dp-lewis/postcss-australian-stylesheets).
-- [gulp-rucksack](https://github.com/seaneking/gulp-rucksack) - Gulp plugin for Rucksack - a little bag of CSS superpowers.
+- [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer) - Prefix css with Autoprefixer.
+- [gulp-postcss](https://github.com/postcss/gulp-postcss) -  Pipe css through Postcss processors with a single parse.
+- [gulp-australian-stylesheets](https://github.com/stevemao/gulp-australian-stylesheets) - Compile Australian css with [PostCSS australian stylesheets](https://github.com/dp-lewis/postcss-australian-stylesheets).
+- [gulp-rucksack](https://github.com/seaneking/gulp-rucksack) - Gulp plugin for Rucksack - a little bag of css superpowers.
 - [gulp-pxtorem](https://github.com/cuth/gulp-pxtorem) - A gulp plugin for [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem).
-- [gulp-html-postcss](https://github.com/StartPolymer/gulp-html-postcss) - Process inline CSS in HTML using PostCSS gulp plugin.
+- [gulp-html-postcss](https://github.com/StartPolymer/gulp-html-postcss) - Process inline css in HTML using postcss gulp plugin.
 
 
 
