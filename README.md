@@ -137,9 +137,9 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - Azat S. [@azat_io](https://twitter.com/azat_io)
 - Sean King [@seaneking](https://twitter.com/seaneking)
 
-#### Thanks to...
+### Thanks to...
 
-[Afonso Pacifer](https://github.com/afonsopacifer), [Marcus Silva](https://github.com/mvfsillva), [Willian Justen](https://github.com/willianjusten) & [Daniel Schmidt](https://github.com/danielmschmidt/) By motivation, help and contribution.
+[Afonso Pacifer](https://github.com/afonsopacifer), [Marcus Silva](https://github.com/mvfsillva), [Willian Justen](https://github.com/willianjusten) and [Daniel Schmidt](https://github.com/danielmschmidt/) by motivation, help and contribution.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
