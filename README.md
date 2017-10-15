@@ -63,24 +63,20 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ## Task Runner
 
-### Grunt
+`Grunt`
 
 - [grunt-australian-stylesheets](https://github.com/stevemao/grunt-australian-stylesheets) - Compile Australian css with [PostCSS australian stylesheets](https://github.com/dp-lewis/postcss-australian-stylesheets).
 
-### Gulp
+`Gulp`
 
 - [gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer) - Prefix css with Autoprefixer.
-- [gulp-postcss](https://github.com/postcss/gulp-postcss) -  Pipe css through Postcss processors with a single parse.
+- [gulp-postcss](https://github.com/postcss/gulp-postcss) -  Pipe css through postcss processors with a single parse.
 - [gulp-australian-stylesheets](https://github.com/stevemao/gulp-australian-stylesheets) - Compile Australian css with [PostCSS australian stylesheets](https://github.com/dp-lewis/postcss-australian-stylesheets).
-- [gulp-rucksack](https://github.com/seaneking/gulp-rucksack) - Gulp plugin for Rucksack - a little bag of css superpowers.
-- [gulp-pxtorem](https://github.com/cuth/gulp-pxtorem) - A gulp plugin for [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem).
+- [gulp-rucksack](https://github.com/seaneking/gulp-rucksack) - Plugin for rucksack - a little bag of css superpowers.
+- [gulp-pxtorem](https://github.com/cuth/gulp-pxtorem) - Plugin for [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem).
 - [gulp-html-postcss](https://github.com/StartPolymer/gulp-html-postcss) - Process inline css in HTML using postcss gulp plugin.
 
-
-
 ## Guides
-
-*Guides for developers start their studies PostCSS.*
 
 ##### PostCSS Deep Dive:
 
