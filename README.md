@@ -87,22 +87,17 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - `PostCSS Deep Dive:` [Shortcuts and shorthand](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-shortcuts-and-shorthand--cms-24602)
 - `PostCSS Deep Dive:` [What you need to know](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535)
 
-##### PostCSS Quickstart Guide:
+- `PostCSS Quickstart Guide:` [Exploring plugins](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-exploring-plugins--cms-24566)
+- `PostCSS Quickstart Guide:` [Gulp setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
+- `PostCSS Quickstart Guide:` [Grunt setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-grunt-setup--cms-24545)
+- `PostCSS Quickstart Guide:` [Instant setup options](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-instant-setup-options--cms-24536)
 
-- [Exploring plugins](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-exploring-plugins--cms-24566)
-- [Gulp setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
-- [Grunt setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-grunt-setup--cms-24545)
-- [Instant setup options](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-instant-setup-options--cms-24536)
+- `Using PostCSS:` [for minification and optimization](https://webdesign.tutsplus.com/tutorials/using-postcss-for-minification-and-optimization--cms-24568)
+- `Using PostCSS:` [for cross browser compatibility](https://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567)
+- `Using PostCSS:` [Together with sass, stylus, or LESS](https://webdesign.tutsplus.com/tutorials/using-postcss-together-with-sass-stylus-or-less--cms-24591)
+- `Using PostCSS:` [with BEM and SUIT methodologies](https://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodologies--cms-24592)
 
-##### Using PostCSS:
-
-- [for minification and optimization](https://webdesign.tutsplus.com/tutorials/using-postcss-for-minification-and-optimization--cms-24568)
-- [for cross browser compatibility](https://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567)
-- [Together with sass, stylus, or LESS](https://webdesign.tutsplus.com/tutorials/using-postcss-together-with-sass-stylus-or-less--cms-24591)
-- [with BEM and SUIT methodologies](https://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodologies--cms-24592)
-
-
-### Plugins
+## Plugins
 
 - [postcss parts](https://www.postcss.parts) - A searchable catalog of PostCSS plugins
 - [atom-language-postcss](https://github.com/azat-io/atom-language-postcss) - Atom language support for PostCSS
