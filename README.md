@@ -131,6 +131,11 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 - Andrey Sitnik [@andreysitnik](https://twitter.com/andreysitnik)
 - Evil Martians [@evilmartians](https://twitter.com/evilmartians)
+- Ray Villalobos [@planetoftheweb](https://twitter.com/planetoftheweb)
+- Max Stoiber [@mxstbr](https://twitter.com/mxstbr)
+- Maxime Thirouin [@MoOx](https://twitter.com/MoOx)
+- Azat S. [@azat_io](https://twitter.com/azat_io)
+- Sean King [@seaneking](https://twitter.com/seaneking)
 
 ## Thanks to...
 
