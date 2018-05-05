@@ -36,9 +36,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 - [	206 JavaScript Jabber | PostCSS with Ben Briggs](https://devchat.tv/js-jabber/206-jsj-postcss-with-ben-briggs) - *English*
 - [Issue 24 radiojs | The most stylish minifier](https://radiojs.ru/2015/06/radiojs-24/) - *Russian*
-- [Issue №9 Web standards-ru](https://soundcloud.com/web-standards/episode-9) - *Russian*
 - [Podfanatic | Sam Richard — Sass, Front-end Development](https://podfanatic.com/podcast/non-breaking-space-show/episode/sam-richard-sass-and-postcss) - *English*
-- [Viewsources Podcast | post processing css](https://viewsourc.es/2015/06/15/episode-8-post-processing-css/) - *English*
 
 ## Articles
 
