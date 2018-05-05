@@ -7,7 +7,7 @@
 
 **PostCSS** is not a preprocessor; it doesn’t transform CSS. As a matter of fact, it doesn’t do much by itself at all. What it does is provide a CSS parser and a framework for creating plugins that can analyse, lint, handle assets, optimise, create fallbacks, and otherwise transform parsed CSS. PostCSS parses CSS into an _abstract syntax tree [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree)_, passes it through a series of plugins, and then concatenates back into a string.
 
-Your contributions are always welcome. But, please take a quick gander at the contribution [guidelines](https://github.com/jjaderg/awesome-postcss/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome. But, please take a quick gander at the contribution [guidelines](https://github.com/jdrgomes/awesome-postcss/blob/master/CONTRIBUTING.md) first.
 
 ## Contents
 
@@ -142,4 +142,4 @@ Your contributions are always welcome. But, please take a quick gander at the co
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Jader Gomes](https://github.com/jjaderg) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Jader Gomes](https://github.com/jdrgomes) has waived all copyright and related or neighboring rights to this work.
