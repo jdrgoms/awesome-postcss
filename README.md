@@ -9,7 +9,7 @@
 
 **PostCSS** does is provide a css parser and a framework for creating plugins that can analyse, lint, handle assets, optimise, create fallbacks, and otherwise transform parsed css. PostCSS parses css into an abstract syntax tree [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree), passes it through a series of plugins, and then concatenates back into a string.
 
-#### Table of Contents
+### Table of Contents
 
 - [Awesome PostCSS](#awesome-postcss)
     - [Articles](topics/articles)
@@ -21,21 +21,21 @@
     - [Presentations](topics/presentations)    
     - [Task Runner](topics/task-runner)
     
-#### Contributing
+### Contributing
 
 Your contributions are always welcome. But, please take a quick gander at the [CONTRIBUTION guidelines](https://github.com/jdrgomes/awesome-postcss/blob/master/CONTRIBUTING.md) first.
 
-#### Who to follow
+### Who to follow
 
-- Andrey Sitnik [@andreysitnik](https://twitter.com/andreysitnik)
-- Evil Martians [@evilmartians](https://twitter.com/evilmartians)
-- Ray Villalobos [@planetoftheweb](https://twitter.com/planetoftheweb)
-- Max Stoiber [@mxstbr](https://twitter.com/mxstbr)
-- Maxime Thirouin [@MoOx](https://twitter.com/MoOx)
-- Azat S. [@azat_io](https://twitter.com/azat_io)
-- Sean King [@seaneking](https://twitter.com/seaneking)
+- [Azat S.](https://twitter.com/azat_io)
+- [Andrey Sitnik](https://twitter.com/andreysitnik)
+- [Evil Martians](https://twitter.com/evilmartians)
+- [Max Stoiber](https://twitter.com/mxstbr)
+- [Maxime Thirouin](https://twitter.com/MoOx)
+- [Ray Villalobos](https://twitter.com/planetoftheweb)
+- [Sean King](https://twitter.com/seaneking)
 
-#### License
+### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Jader Gomes](https://github.com/jdrgomes) has waived all copyright and related or neighboring rights to this work.
+This project is licensed under the MIT license - see the [LICENSE](https://github.com/jdrgomes/awesome-postcss/blob/master/LICENSE) for details.
