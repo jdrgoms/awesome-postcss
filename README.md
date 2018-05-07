@@ -12,14 +12,14 @@
 ### Table of Contents
 
 - [Awesome PostCSS](#awesome-postcss)
-    - [Articles](topics/articles)
-    - [Community](topics/community)
-    - [Guides](topics/guides)
-    - [Official Resources](topics/official-resources)
-    - [Podcast](topics/podcast)
-    - [Plugins](topics/plugins)
-    - [Presentations](topics/presentations)    
-    - [Task Runner](topics/task-runner)
+    - [Articles](topics/articles.md)
+    - [Community](topics/community.md)
+    - [Guides](topics/guides.md)
+    - [Official Resources](topics/official-resources.md)
+    - [Podcast](topics/podcast.md)
+    - [Plugins](topics/plugins.md)
+    - [Presentations](topics/presentations.md)    
+    - [Task Runner](topics/task-runner.md)
     
 ### Contributing
 
