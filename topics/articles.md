@@ -1,6 +1,6 @@
 ## Articles
 
-- [7 Postcss Pluguins to Ease You Into Postcss](https://www.sitepoint.com/7-postcss-plugins-to-ease-you-into-postcss/)
+- [7 Postcss Plugins to Ease You Into Postcss](https://www.sitepoint.com/7-postcss-plugins-to-ease-you-into-postcss/)
 - [A look into writing future css with PostCSS and cssnext](https://bigbitecreative.com/a-look-into-writing-future-css-with-postcss-cssnext/)
 - [Breaking up with Sass - PostCSS](https://benfrain.com/breaking-up-with-sass-postcss/)
 - [Extending Sass with PostCSS](https://ashleynolan.co.uk/blog/extend-sass-with-postcss)
