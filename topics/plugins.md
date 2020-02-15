@@ -12,6 +12,7 @@
 - [postcss-selector-parser](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings.
 - [postcss-html](https://github.com/gucong3000/postcss-html) - Postcss Syntax for parsing HTML / Markdown / Vue component.
 - [postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport) - Generates viewport units (vw, vh, vmin, vmax) from pixel units.
+- [postcss-at-rules-variables](https://github.com/Scrum/postcss-at-rules-variables) - Transform [W3C CSS Custom Properties](http://www.w3.org/TR/css-variables/) for at-rule’s parameters.
 
 ---
 [Back to Home](https://github.com/jdrgomes/awesome-postcss)
