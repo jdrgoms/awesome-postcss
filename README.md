@@ -5,9 +5,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/jdrgomes/awesome-postcss.svg?branch=master)](https://travis-ci.org/jdrgomes/awesome-postcss)
 
-> An selected list of PostCSS resources and other things related.
+> A selective list of PostCSS resources and other related things.
 
-**PostCSS** does is provide a css parser and a framework for creating plugins that can analyse, lint, handle assets, optimise, create fallbacks, and otherwise transform parsed css. PostCSS parses css into an abstract syntax tree [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree), passes it through a series of plugins, and then concatenates back into a string.
+**PostCSS** simply provides a css parser and a framework for creating plugins that can analyse, lint, handle assets, optimise, create fallbacks, and otherwise transform parsed css. PostCSS parses css into an abstract syntax tree [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree), passes it through a series of plugins, and then concatenates back into a string.
 
 ### Table of Contents
 
